@@ -1,6 +1,6 @@
 function Home() {
     return(
-        <h1>Vai treinar seu Fraguinho!</h1>
+        <h1>Vai treinar seu Frango!!! </h1>
     )
 }
 
