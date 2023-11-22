@@ -1,0 +1,7 @@
+Modulo banco de dados :
+
+usando o postgres como banco de dados.
+
+pg, para se conectar e fazer as querys.
+
+e usar o node-pg-migrate para fazer as migrates.
